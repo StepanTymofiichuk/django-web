@@ -1,2 +1,2 @@
-# django-web
-web projects using django
+# web-projects
+python web projects
